@@ -1,4 +1,4 @@
-# Hi 👋, I'm Stephen Kwapongh
+# Hi 👋, I'm Stephen Kwapong
 
 🎓 Computing Teacher  
 💻 Aspiring Software Developer  
